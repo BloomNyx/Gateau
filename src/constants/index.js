@@ -57,7 +57,7 @@ export const siteText = [
         text: ["make", "site compliant with", "webstandard"],
         title: "비트를 이용한 사이트 제작",
         code: "https://github.com/BloomNyx/MARKUP.git",
-        view: "",
+        view: "https://bloomnyx.github.io/Ruewio/",
         info: [
             "site coding",
             "production period : two days",
@@ -68,7 +68,7 @@ export const siteText = [
         text: ["make", "site compliant with", "react.js"],
         title: "리액트를 이용한 사이트 제작",
         code: "https://github.com/BloomNyx/Gateau.git",
-        view: "",
+        view: "http://localhost:3000/",
         info: [
             "site coding",
             "production period : two days",
