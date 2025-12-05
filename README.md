@@ -1,9 +1,12 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<a href="https://bloomnyx.github.io/Gateau/" target="_blank" rel="noopener noreferrer">
+<a href="https://bloomnyx.github.io/Gateau/" target="_blank" rel="noopener noreferrer">
   ▶ Gateau 웹사이트 보기
 </a>
 
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
