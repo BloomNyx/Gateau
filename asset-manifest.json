@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/bloomnyx.github.io/static/css/main.3a30b480.css",
-    "main.js": "/bloomnyx.github.io/static/js/main.731d02e3.js",
-    "static/media/about (1).jpg": "/bloomnyx.github.io/static/media/about (1).0977fda6cb4bff77b3aa.jpg",
-    "static/media/port04.jpg": "/bloomnyx.github.io/static/media/port04.23e8b45a93c88f49e056.jpg",
-    "static/media/port09.jpg": "/bloomnyx.github.io/static/media/port09.f5ff7180309f8df99d47.jpg",
-    "static/media/port07.jpg": "/bloomnyx.github.io/static/media/port07.2615a84f841a49cd4fb3.jpg",
-    "static/media/port10.jpg": "/bloomnyx.github.io/static/media/port10.708a27f0648ebb1ff3c2.jpg",
-    "static/media/port03.jpg": "/bloomnyx.github.io/static/media/port03.a06a66055a121062febe.jpg",
-    "static/media/port01.jpg": "/bloomnyx.github.io/static/media/port01.f5dab2604107d7108c22.jpg",
-    "static/media/port02.jpg": "/bloomnyx.github.io/static/media/port02.889fdcbfa9e4f0377cba.jpg",
-    "static/media/port05.jpg": "/bloomnyx.github.io/static/media/port05.abfcf085f1bd2150efba.jpg",
-    "static/media/port06.jpg": "/bloomnyx.github.io/static/media/port06.b30ff679cdec7ebab5f4.jpg",
-    "index.html": "/bloomnyx.github.io/index.html",
-    "static/media/arrow.svg": "/bloomnyx.github.io/static/media/arrow.e64387ba5f4b50b3db75.svg",
-    "main.3a30b480.css.map": "/bloomnyx.github.io/static/css/main.3a30b480.css.map",
-    "main.731d02e3.js.map": "/bloomnyx.github.io/static/js/main.731d02e3.js.map"
+    "main.css": "/Gateau/static/css/main.0ad17650.css",
+    "main.js": "/Gateau/static/js/main.63d9dfce.js",
+    "static/media/about (1).jpg": "/Gateau/static/media/about (1).0977fda6cb4bff77b3aa.jpg",
+    "static/media/port04.jpg": "/Gateau/static/media/port04.23e8b45a93c88f49e056.jpg",
+    "static/media/port09.jpg": "/Gateau/static/media/port09.f5ff7180309f8df99d47.jpg",
+    "static/media/port07.jpg": "/Gateau/static/media/port07.2615a84f841a49cd4fb3.jpg",
+    "static/media/port10.jpg": "/Gateau/static/media/port10.708a27f0648ebb1ff3c2.jpg",
+    "static/media/port03.jpg": "/Gateau/static/media/port03.a06a66055a121062febe.jpg",
+    "static/media/port01.jpg": "/Gateau/static/media/port01.f5dab2604107d7108c22.jpg",
+    "static/media/port02.jpg": "/Gateau/static/media/port02.889fdcbfa9e4f0377cba.jpg",
+    "static/media/port05.jpg": "/Gateau/static/media/port05.abfcf085f1bd2150efba.jpg",
+    "static/media/port06.jpg": "/Gateau/static/media/port06.b30ff679cdec7ebab5f4.jpg",
+    "index.html": "/Gateau/index.html",
+    "static/media/arrow.svg": "/Gateau/static/media/arrow.e64387ba5f4b50b3db75.svg",
+    "main.0ad17650.css.map": "/Gateau/static/css/main.0ad17650.css.map",
+    "main.63d9dfce.js.map": "/Gateau/static/js/main.63d9dfce.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a30b480.css",
-    "static/js/main.731d02e3.js"
+    "static/css/main.0ad17650.css",
+    "static/js/main.63d9dfce.js"
   ]
 }
