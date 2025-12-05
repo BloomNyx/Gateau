@@ -56,7 +56,7 @@ export const siteText = [
     {
         text: ["make", "site compliant with", "webstandard"],
         title: "비트를 이용한 사이트 제작",
-        code: "https://github.com/BloomNyx/MARKUP.git",
+        code: "https://github.com/BloomNyx/Ruewio.git",
         view: "https://bloomnyx.github.io/Ruewio/",
         info: [
             "site coding",
@@ -68,7 +68,7 @@ export const siteText = [
         text: ["make", "site compliant with", "react.js"],
         title: "리액트를 이용한 사이트 제작",
         code: "https://github.com/BloomNyx/Gateau.git",
-        view: "http://localhost:3000/",
+        view: "https://bloomnyx.github.io/Gateau/",
         info: [
             "site coding",
             "production period : two days",
@@ -78,7 +78,7 @@ export const siteText = [
     {
         text: ["make", "site compliant with", "vue.js"],
         title: "뷰를 이용한 사이트 제작",
-        code: "https://github.com/webstoryboy/port2023-vue",
+        code: "https://github.com/BloomNyx/Raviebelle.git",
         view: "",
         info: [
             "site coding",
@@ -89,7 +89,7 @@ export const siteText = [
     {
         text: ["make", "site compliant with", "next.js"],
         title: "넥스트를 이용한 사이트 제작",
-        code: "https://github.com/webstoryboy/port2023-next",
+        code: "https://github.com/BloomNyx/atelier.git",
         view: "",
         info: [
             "site coding",
