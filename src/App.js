@@ -1,15 +1,15 @@
 import React from "react";
-import { HashRouter, Route, Routes } from "react-router-dom";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 import HomeView from "./views/HomeView";
 
 const App = () => {
     return (
-        <HashRouter>
+        <BrowserRouter basename="/Gateau">
             <Routes>
                 <Route path="/" element={<HomeView />} />
             </Routes>
-        </HashRouter>
+        </BrowserRouter>
     );
 };
 
