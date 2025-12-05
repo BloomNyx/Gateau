@@ -5,11 +5,11 @@ import HomeView from "./views/HomeView";
 
 const App = () => {
     return (
-    <BrowserRouter basename="Gateau">
-        <Routes>
-            <Route path="/" element={<HomeView />} />
-        </Routes>
-    </BrowserRouter>
+        <BrowserRouter basename="/Gateau">
+            <Routes>
+                <Route path="/" element={<HomeView />} />
+            </Routes>
+        </BrowserRouter>
     );
 };
 
