@@ -79,7 +79,7 @@ export const siteText = [
         text: ["make", "site compliant with", "vue.js"],
         title: "뷰를 이용한 사이트 제작",
         code: "https://github.com/BloomNyx/Raviebelle.git",
-        view: "",
+        view: "https://bloomnyx.github.io/Raviebelle/",
         info: [
             "site coding",
             "production period : two days",
@@ -90,7 +90,7 @@ export const siteText = [
         text: ["make", "site compliant with", "next.js"],
         title: "넥스트를 이용한 사이트 제작",
         code: "https://github.com/BloomNyx/atelier.git",
-        view: "",
+        view: "https://bloomnyx.github.io/atelier/",
         info: [
             "site coding",
             "production period : two days",
@@ -211,20 +211,5 @@ export const footerText = [
         title: "github",
         desc: "깃헙에 오시면 더 많은 소스를 볼 수 있습니다.",
         link: "https://github.com/BloomNyx?tab=repositories",
-    },
-    {
-        title: "react",
-        desc: "리액트로 만든 사이트를 같이 만들어 봅니다.",
-        link: "https://github.com/webstoryboy/port2023-react",
-    },
-    {
-        title: "vue",
-        desc: "뷰로 만든 사이트를 같이 만들어 봅니다.",
-        link: "https://github.com/webstoryboy/port2023-vue",
-    },
-    {
-        title: "next",
-        desc: "넥스트로 만든 사이트를 같이 만들어 봅니다.",
-        link: "https://github.com/webstoryboy/port2023-next",
     },
 ];
